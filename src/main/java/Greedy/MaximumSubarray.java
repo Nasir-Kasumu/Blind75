@@ -1,2 +1,4 @@
-package Greedy;public class MaximumSubarray {
+package Greedy;
+
+public class MaximumSubarray {
 }
