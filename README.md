@@ -12,6 +12,7 @@ not yet implemented
 
 ```
 No general use yet just for instruction and studying
+https://docs.google.com/spreadsheets/d/1tr1-Jvi8s_4Bmy6CYnLJIIlkr_s4PykwzaTSe7GcDJQ/edit?usp=sharing
 ```
 
 ## Contributing
